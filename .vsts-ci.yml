@@ -1,2 +1,2 @@
  steps:
- - script: Welcome to hello world
+ - script: echo Welcome to hello world
