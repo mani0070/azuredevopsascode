@@ -1,1 +1,2 @@
-
+ steps:
+ - script: Welcome to hello world
